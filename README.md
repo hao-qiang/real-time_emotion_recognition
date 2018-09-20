@@ -10,13 +10,7 @@ A real-time emotion recognition project which can run on CPU.
 
 ## Running
 
-1. Recognizing emotion from one picture
-
-```
-python emotion_recognition_img.py input.jpg
-```
-
-2. Using pc camera to do real-time emotion recognition
+Using pc camera to do real-time emotion recognition
 
 ```
 python emotion_recognition_cam.py
