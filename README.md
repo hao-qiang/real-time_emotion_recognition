@@ -1,2 +1,2 @@
-# real-time_emotion_recognition
-A real-time emotion recognition project which can run on CPU
+# real-time emotion recognition
+A real-time emotion recognition project which can run on CPU.
